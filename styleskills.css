@@ -1,0 +1,64 @@
+body{
+			margin:0px;
+			padding:0px;
+			background-color:#0f101f;
+			cursor: default;
+		}
+		.links{
+			padding-top:20px;
+			font-size:22px;
+			text-align:center;
+		}
+		.links-child{
+			margin-right:40px;
+			text-decoration:none;
+			color:white;
+			font-family: sans-serif;
+		}
+		.links-child:hover{
+			border-bottom:1px solid white;
+		}
+		.w-skills{
+			color:white;
+			font-family:cursive;
+			padding-bottom: 80px;
+			margin-top:30px;
+		}
+		.btn{
+			margin-left: 200px;
+			margin-top: 55px;
+			background-color:#30b2ae;
+			color:white;
+			font-family:cursive;
+			font-size: 23px;
+			border-radius: 20px;
+		}
+		.btn:hover{
+			background-color:#0f101f;
+			border-color: #30b2ae;
+		}
+		.w-skills p{
+			margin-bottom: -12px;
+			font-size: 15px;
+			text-align: center
+		}
+		.circle{
+			color:#30b2ae;
+		}
+		.options{
+			margin-left: 43%;
+			margin-top: 33px;
+		}
+		.options a{
+			text-decoration:none;
+			color:white;
+		}
+		.p-skills{
+			padding-bottom: 80px;
+		}
+		.p-skills p{
+			font-family:cursive;
+			color:white;
+			display:inline-block;
+			line-height: 0px;
+		}
